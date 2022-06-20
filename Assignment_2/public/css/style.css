@@ -1,0 +1,9 @@
+body {
+  background-image: url("question3.avif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h1 {
+  color: darkmagenta;
+}
